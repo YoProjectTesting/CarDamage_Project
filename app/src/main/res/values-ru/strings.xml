@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Аллюма авто-дизайн</string>
+
+    <string name="injuredColor">Поврежд.краска (A)</string>
+    <string name="stretchedTin">Растянута жесть (B)</string>
+    <string name="toManyDents">Множеств. мятины (C)</string>
+    <string name="lacBurned">Сгоревший лак (D)</string>
+    <string name="noHailDamage">Не от града (E)</string>
+
+    <string name="removeThis">Удалить выбранное</string>
+    <string name="removeAll">Очистить выбранную часть</string>
+
+    <string name="Save">Сохранить</string>
+    <string name="Next">Далее..</string>
+
+    <string name="ChooseView">Выбирете опцию..</string>
+    <string name="CarView">Вид машины</string>
+    <string name="CustomerDataView">Данные клиента</string>
+    <string name="RepairView">Доп.доклад</string>
+
+    <string name="carNumber">Номер машины</string>
+    <string name="CarType_Year">Марка машины и год</string>
+    <string name="CustomerName">Имя клиента</string>
+    <string name="CustomerID">Тэудат зехут</string>
+    <string name="CustomerPhone">Тел. клиента</string>
+    <string name="CustomerEmail">Эл.почта клиента</string>
+    <string name="AppraiserName">Имя оценщика</string>
+    <string name="AppraiserPhone">Тел. оценщика</string>
+    <string name="AppraiserEMail">Эл. почта оценщика</string>
+    <string name="InsuranceCompany">Страховая компания</string>
+    <string name="InsuranceAgent">Стаховой агент</string>
+    <string name="InsuranceAgentPhone">Тел. агента</string>
+    <string name="DifficultyLevel">Тяжесть повреждения</string>
+
+    <string name="changeUser"><u>Сменить пользователя</u></string>
+    <string name="History"><u>Последние</u></string>
+    <string name="NewReport"><u>Новый репорт</u></string>
+    <string name="Seasrch">Поиск клиентов</string>
+
+    <string name="LogIn">Войти</string>
+
+    <string name="searchCarNumButton">Поиск по номеру маш.</string>
+    <string name="searchQueryButton">Поиск</string>
+
+</resources>

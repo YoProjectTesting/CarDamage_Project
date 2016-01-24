@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Button
+        android:text="@string/injuredColor"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+
+        android:id="@+id/injuredColor"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/injured_color_button"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+
+        android:text="@string/stretchedTin"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/injured_color_button"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:id="@+id/stretchedTin"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" />
+
+    <Button
+         android:text="@string/toManyDents"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/injured_color_button"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:id="@+id/toManyDents"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:text="@string/lacBurned"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/injured_color_button"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:id="@+id/lacBurned"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:text="@string/noHailDamage"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/injured_color_button"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:id="@+id/noHailDamage"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" />
+
+    <Button
+
+        android:text="@string/removeThis"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/remove_buttons"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:id="@+id/removeThis"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" />
+
+    <Button
+
+        android:text="@string/removeAll"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/remove_buttons"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:id="@+id/removeAll"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.07"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

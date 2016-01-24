@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alluma Car Design</string>
+
+    <string name="injuredColor">Injured color (A)</string>
+    <string name="stretchedTin">Stretched tin (B)</string>
+    <string name="toManyDents">To many dents (C)</string>
+    <string name="lacBurned">Lac burned (D)</string>
+    <string name="noHailDamage">No hail damage (E)</string>
+
+    <string name="removeThis">Remove this</string>
+    <string name="removeAll">Remove dents from the part</string>
+
+    <string name="Save">Save/Send</string>
+    <string name="Next">Next</string>
+
+    <!--<string name="ChooseView">Choose View</string>-->
+    <string name="CarView">Car View</string>
+    <string name="CustomerDataView">Customer Data View</string>
+    <string name="RepairView">Compl.Report</string>
+
+    <string name="carNumber">מספר רכב</string>
+    <string name="CarType_Year">דגם ושנת יצור</string>
+    <string name="CustomerName">שם לקוח</string>
+    <string name="CustomerID">תעודת זהות</string>
+    <string name="CustomerPhone">טלפון לקוח</string>
+    <string name="CustomerEmail">אי מייל של לקוח</string>
+    <string name="AppraiserName">שם שמאי</string>
+    <string name="AppraiserPhone">טלפון של שמאי</string>
+    <string name="AppraiserEMail">אי מייל של שמאי</string>
+    <string name="InsuranceCompany">חברת ביטוח</string>
+    <string name="InsuranceAgent">סוכן ביטוח</string>
+    <string name="InsuranceAgentPhone">טלפון של סוכן</string>
+    <string name="DifficultyLevel">דרגת קושי</string>
+
+
+    <string name="changeUser"><u>Change User</u></string>
+    <string name="History"><u>History</u></string>
+    <string name="NewReport"><u>New report</u></string>
+    <string name="Seasrch">Seasrch Customers</string>
+
+    <string name="LogIn">Log In</string>
+
+    <string name="searchCarNumButton">Search by Car Num</string>
+    <string name="searchQueryButton">Search</string>
+
+
+</resources>

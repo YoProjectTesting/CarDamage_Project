@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">אלומה עיצוב רכב</string>
+
+    <string name="injuredColor">פיצוץ צבע -A</string>
+    <string name="stretchedTin">מתיחת יתר פח -B</string>
+    <string name="toManyDents">ריבוי שקעים -C</string>
+    <string name="lacBurned">לק שרוף -D</string>
+    <string name="noHailDamage">נזק לא מברד -E</string>
+
+    <string name="removeThis">למחוק סימן</string>
+    <string name="removeAll">לנקות סימנים מהרכיב</string>
+
+    <string name="Save">שמור/שלח</string>
+    <string name="Next">הבא</string>
+
+    <string name="ChooseView">תבחר אופציה</string>
+    <string name="CarView">סימון נזק ברכב</string>
+    <string name="CustomerDataView">פרטי לקוח</string>
+    <string name="RepairView">דו-ח משלים</string>
+
+    <string name="carNumber">מספר רכב</string>
+    <string name="CarType_Year">דגם ושנת יצור</string>
+    <string name="CustomerName">שם לקוח</string>
+    <string name="CustomerID">תעודת זהות</string>
+    <string name="CustomerPhone">טלפון לקוח</string>
+    <string name="CustomerEmail">אי מייל של לקוח</string>
+    <string name="AppraiserName">שם שמאי</string>
+    <string name="AppraiserPhone">טלפון של שמאי</string>
+    <string name="AppraiserEMail">אי מייל של שמאי</string>
+    <string name="InsuranceCompany">חברת ביטוח</string>
+    <string name="InsuranceAgent">סוכן ביטוח</string>
+    <string name="InsuranceAgentPhone">טלפון של סוכן</string>
+    <string name="DifficultyLevel">דרגת קושי</string>
+
+    <string name="changeUser"><u>החלפת משתמש</u></string>
+    <string name="History"><u>הסטוריה</u></string>
+    <string name="NewReport"><u>דיווח חדש</u></string>
+    <string name="Seasrch">חיפוש לקוחות</string>
+
+    <string name="LogIn">כנס</string>
+
+    <string name="searchCarNumButton">חיפוש מס רכב</string>
+    <string name="searchQueryButton">חיפוש</string>
+
+
+</resources>
