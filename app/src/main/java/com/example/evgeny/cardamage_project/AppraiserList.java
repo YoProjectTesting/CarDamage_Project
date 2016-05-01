@@ -13,7 +13,7 @@ public class AppraiserList  extends ArrayList{
         this.add(new Appraiser("עופר טל","037569409","ofer-t@ayalon-ins.co.il"));
         this.add(new Appraiser("בני מזור","0537766047","benym@clal-ins.co.il"));
         this.add(new Appraiser("ערן אור","0506943349","erano@bth.co.il"));
-        this.add(new Appraiser("אלי כלב","039294010","ekalev@harel-ins.co.il"));
+        this.add(new Appraiser("שמאי לדוגמא","048111111","mailledugma@mail.com"));
         this.add(new Appraiser("אלי כלב","039294010","ekalev@harel-ins.co.il"));
         this.add(new Appraiser("טוביה","0507258272",""));
         this.add(new Appraiser("ניצן מילר","0548182131","nizanm@fnx.co.il"));

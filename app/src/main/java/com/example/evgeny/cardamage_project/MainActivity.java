@@ -281,8 +281,8 @@ public class MainActivity extends AppCompatActivity {
 
                     int filesCount = new File(dir.toString()).list().length;
                     Log.i("MyTag", " filesCount: " + filesCount);
-//                    shareMultiplyFiles(filesCount, carNumberField.getText().toString());
-                /*Intent intPic = new Intent(getApplicationContext(), imagePresents.class);
+                   shareMultiplyFiles(filesCount, carNumberField.getText().toString());
+              /* Intent intPic = new Intent(getApplicationContext(), imagePresents.class);
                 startActivity(intPic);*/
                 }else{
                     Toast.makeText(getApplicationContext(), "Please fill car number", Toast.LENGTH_LONG).show();
@@ -456,7 +456,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public  void shareMultiplyFiles(int filesCount,String carNum){
-        String[] TO={"allumacd@gmail.com"};
+        String[] TO={"allumaDemo@gmail.com"};
 //        String[] TO={"evgeny.strilchik@gmail.com"};
 //    String[]CC={evgeny.strilchik@gmail.com};
 
